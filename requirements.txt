@@ -1,0 +1,11 @@
+streamlit==1.45.1
+requests==2.32.3
+bs4==0.0.2
+Unidecode==1.4.0
+joblib==1.5.1
+numpy==2.0.2
+streamlit_folium==0.25.0
+folium==0.19.7
+geopy==2.4.1
+
+
